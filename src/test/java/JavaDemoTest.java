@@ -4,6 +4,6 @@ public class JavaDemoTest {
 
     @org.junit.Test
     public void f() {
-        assert(true);
+        assertTrue(true);
     }
 }
